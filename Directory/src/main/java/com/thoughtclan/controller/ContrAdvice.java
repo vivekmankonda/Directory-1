@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 public class ContrAdvice {
 
 	@ExceptionHandler({ Exception.class })
-	public String errorHandler() {
+	public String errorHandler() {//new comments
 		return "error";
 	}
 
