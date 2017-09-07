@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+12Test
+=======
+Test2
+>>>>>>> 13370165c825391ad6bd767e23fa233501e66913
+
+newer lines
+
+dfgh
