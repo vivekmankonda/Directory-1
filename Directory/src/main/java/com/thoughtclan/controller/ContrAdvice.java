@@ -8,6 +8,9 @@ public class ContrAdvice {
 
 	@ExceptionHandler({ Exception.class })
 	public String errorHandler() {//new comments
+		
+		
+		//test
 		return "error";
 	}
 
