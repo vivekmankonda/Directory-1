@@ -10,7 +10,7 @@ import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 @Entity
-//entity
+//entityclass
 public class AddressModel {
     private int houseNo;
     private String street;
